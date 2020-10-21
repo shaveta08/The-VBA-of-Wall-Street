@@ -2,8 +2,7 @@
 Using VBA scripting to analyze real stock market data for year 2014-2016.
 
 ## Files
- ### * Test Data - Use this while developing your scripts.
- ### * Stock Data - Run your scripts on this data to generate the final homework report.
+ * Stock Data - Data to generate the final Report.
 
 ## Stock Market analysis:
 1. Creating the script that will loop through all the stocks for one year and output the following information.
