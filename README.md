@@ -15,6 +15,9 @@ Using VBA scripting to analyze real stock market data for year 2014-2016.
 
 3. Our solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". 
 
-#image
-#image
-#image
+![image1](https://github.com/shaveta08/The-VBA-of-Wall-Street/blob/master/2014.PNG)
+
+![image2](https://github.com/shaveta08/The-VBA-of-Wall-Street/blob/master/2015.PNG)
+
+![image3](https://github.com/shaveta08/The-VBA-of-Wall-Street/blob/master/2016.PNG)
+
