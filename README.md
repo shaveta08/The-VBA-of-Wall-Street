@@ -19,5 +19,5 @@ Using VBA scripting to analyze real stock market data for year 2014-2016.
 
 ![image2](https://github.com/shaveta08/The-VBA-of-Wall-Street/blob/master/2015.PNG)
 
-![image3](https://github.com/shaveta08/The-VBA-of-Wall-Street/blob/master/2016.PNG)
+![image3](https://github.com/shaveta08/The-VBA-of-Wall-Street/blob/master/2016.png)
 
